@@ -1,0 +1,19 @@
+.page2 {
+    height: 100%;
+}
+.pay_container {
+    font-size: 14px;
+    height: 100%;
+    display: grid;
+    grid-template-rows: 25% 75%;
+}
+
+.payMethod_contatiner {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 15px;
+}
+
+.payMethod_contatiner p {
+    margin: 0;
+}
